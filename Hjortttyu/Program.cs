@@ -55,6 +55,16 @@ namespace Hjort
             XU.Y = 40;
 
             Console.WriteLine(PointA.Distance(PB));
+            XU = new();
+            XU = new();
+            XU = new();
+            XU = new();
+            XU = new();
+            XU = new();
+            XU = new();
+            XU = new();
+            XU = new();
+            XU = new();
 
 
 
